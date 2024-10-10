@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c/c++, python , c# and java.
 - 📫 How to reach me:
 - Discord:Demo.Stratio
-- Insta:x._.no.rithy
+- Insta:rxodur
 - 😄 Pronouns: He/Him
 
 <!---

@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Dundo-Stra
+- 🗿 Can also be known as Tea Sokchanrithy
 - 👀 I’m interested in game making and mod designing.
 - 🌱 I’m currently learning c/c++, python , c# and java.
 - 📫 How to reach me:
-- Discord:Demo.Stratio
+- Discord:le.al_e
 - Insta:rxodur
 - 😄 Pronouns: He/Him
 
